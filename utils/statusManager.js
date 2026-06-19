@@ -297,7 +297,7 @@ class StatusManager {
             await this.client.user.setPresence({
                 activities: [{
                     name: `🎸 Music in ${serverCount} servers`,
-                    type: ActivityType.Playing
+                    type: ActivityType.Listening
                 }],
                 status: 'online'
             });
