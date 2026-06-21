@@ -270,7 +270,7 @@ class StatusManager {
         this.stopCurrentStatus();
         this.isPlaying = false;
         
-        const defaultActivity = `🎵 Ready for music!`;
+        const defaultActivity = `made by @rokanchik`;
         
         await this.client.user.setPresence({
             activities: [{
@@ -296,7 +296,7 @@ class StatusManager {
         if (!this.isPlaying) {
             await this.client.user.setPresence({
                 activities: [{
-                    name: `tg: @rokanchik`,
+                    name: `made by @rokanchik`,
                     type: ActivityType.Listening
                 }],
                 status: 'online'
