@@ -1,4 +1,4 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+![Animated Background](https://cdn.discordapp.com/attachments/1518163157292552293/1518179664454226160/image.png?ex=6a38fa7e&is=6a37a8fe&hm=af879de60faf632ce4fa0c0d5c498e83a0fd3141d42cd3a777f8bf81a25f805a&)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   FriendsHub
